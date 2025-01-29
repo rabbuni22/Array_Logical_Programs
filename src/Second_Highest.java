@@ -20,6 +20,7 @@ public class Second_Highest {
 				secondHighest=num;
 			}
 		}
+		System.out.println("Changed Statement");
 		System.out.println("The Second Highest value in the given array: "+secondHighest);
 	}
 
